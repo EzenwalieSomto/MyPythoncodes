@@ -1,2 +1,2 @@
-# MyPythoncodes
+# My Python codes
 Learning journey
